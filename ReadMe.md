@@ -6,7 +6,7 @@ The purpose of this project is to create an application capable of predicting wh
 
 ### Team Members
 * Jeremy Jewett
-* 
+* Caitlin Kermen
 
 ### Technologies and Methods Used
 * Python
