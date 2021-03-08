@@ -1,4 +1,4 @@
-# Project Name
+# Kickstarter Predictor
 This project is a part of the data science experience through Lambda school.
 
 ## Project Description
