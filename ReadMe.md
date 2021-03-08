@@ -1,32 +1,25 @@
 # Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+This project is a part of the data science experience through Lambda school.
 
 ## Project Description
-The purpose of this project is ______. (Describe the main goals of the project and potential impact. Limit to a short paragraph, 2-3 Sentences)
+The purpose of this project is to create an application capable of predicting whether or not kickstarter will be a success. The application will use a pre-trained model to exhibit the results on the website application (to be developed).
 
 ### Team Members
-* Name #1 (github URL)
-* Name #2 (github URL)
+* Jeremy Jewett
+* 
 
 ### Technologies and Methods Used
 * Python
-* Postgres
 * Tensorflow
-* Flask / FastAPI
-* TF-IDF
-* Logistic Regression
-* k-Nearest Neighbors
-* etc. 
+* Flask / FastAPI (to be completed)
+
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Raw Data is being kept in the [data] folder within this repo.
 
-    *If using offline data mention that and how they may obtain the data from the group)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. Create Pipenv following these instructions...
-5. etc...
-
+3. Data processing/transformation scripts are being kept in the [notebook] folder currently
+4. Creating an environment with Pipenv will be necessary once the application is complete.
+5. 
 
